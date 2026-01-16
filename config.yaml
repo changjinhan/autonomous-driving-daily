@@ -26,7 +26,7 @@ keywords:
         filters: ["Self-Driving", "Automated Driving", "Autonomous Vehicles"]
     "Intelligent Vehicles":
         filters: ["Connected and Automated Vehicles", "Smart Mobility",
-                  "Advanced Driver Assistance Systems", "ADAS"]
+                  "Advanced Driver Assistance Systems"]
     "Motion Planning for Vehicles":
-        filters: ["Trajectory Planning for Driving", "Decision Making in Traffic",
-                  "End-to-End Driving"]
+        filters: ["Vision Language Action model for Driving", "Trajectory Planning for Driving", 
+                  "Decision Making in Traffic", "End-to-End Driving", "AutoVLA"]
