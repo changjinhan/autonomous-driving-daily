@@ -1,4 +1,4 @@
-## Updated on 2026.01.17
+## Updated on 2026.01.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2026-01-14**|**LCF3D: A Robust and Real-Time Late-Cascade Fusion Framework for 3D Object Detection in Autonomous Driving**|Carlo Sgaravatti et.al.|[2601.09812](http://arxiv.org/abs/2601.09812)|null|
 |**2026-01-14**|**ReflexDiffusion: Reflection-Enhanced Trajectory Planning for High-lateral-acceleration Scenarios in Autonomous Driving**|Xuemei Yao et.al.|[2601.09377](http://arxiv.org/abs/2601.09377)|null|
 
-<p align=right>(<a href=#updated-on-20260117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260118>back to top</a>)</p>
 
 ## Intelligent Vehicles
 
@@ -42,7 +42,7 @@
 |**2025-12-15**|**The Optimal Control Algorithm of Connected and Automated Vehicles at Roundabouts with Communication Delay**|Chen Huang et.al.|[2512.13056](http://arxiv.org/abs/2512.13056)|null|
 |**2025-12-12**|**Shared Situational Awareness Using Hybrid Zonotopes with Confidence Metric**|Vandana Narri et.al.|[2512.11493](http://arxiv.org/abs/2512.11493)|null|
 
-<p align=right>(<a href=#updated-on-20260117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260118>back to top</a>)</p>
 
 ## Motion Planning for Vehicles
 
@@ -59,7 +59,7 @@
 |**2025-12-01**|**RoaD: Rollouts as Demonstrations for Closed-Loop Supervised Fine-Tuning of Autonomous Driving Policies**|Guillermo Garcia-Cobo et.al.|[2512.01993](http://arxiv.org/abs/2512.01993)|null|
 |**2025-11-27**|**MTR-VP: Towards End-to-End Trajectory Planning through Context-Driven Image Encoding and Multiple Trajectory Prediction**|Maitrayee Keskar et.al.|[2511.22181](http://arxiv.org/abs/2511.22181)|null|
 
-<p align=right>(<a href=#updated-on-20260117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260118>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
