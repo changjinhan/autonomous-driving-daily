@@ -2,18 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.01.18
+## Updated on 2026.01.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Autonomous Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**Distributed Control Barrier Functions for Safe Multi-Vehicle Navigation in Heterogeneous USV Fleets**|Tyler Paine et.al.|[2601.11335](http://arxiv.org/abs/2601.11335)|null|
+|**2026-01-16**|**The fate of a single impurity in the Bose-Hubbard model**|Chao Zhang et.al.|[2601.11058](http://arxiv.org/abs/2601.11058)|null|
+|**2026-01-15**|**SecMLOps: A Comprehensive Framework for Integrating Security Throughout the MLOps Lifecycle**|Xinrui Zhang et.al.|[2601.10848](http://arxiv.org/abs/2601.10848)|null|
 |**2026-01-15**|**See Less, Drive Better: Generalizable End-to-End Autonomous Driving via Foundation Models Stochastic Patch Selection**|Amir Mallak et.al.|[2601.10707](http://arxiv.org/abs/2601.10707)|null|
 |**2026-01-15**|**DeepUrban: Interaction-Aware Trajectory Prediction and Planning for Automated Driving by Aerial Imagery**|Constantin Selzer et.al.|[2601.10554](http://arxiv.org/abs/2601.10554)|null|
 |**2026-01-15**|**Defending Large Language Models Against Jailbreak Attacks via In-Decoding Safety-Awareness Probing**|Yinzhi Zhao et.al.|[2601.10543](http://arxiv.org/abs/2601.10543)|null|
 |**2026-01-15**|**Advanced Manufacturing with Renewable and Bio-based Materials: AI/ML workflows and Process Optimization**|Rigoberto Advincula et.al.|[2601.10382](http://arxiv.org/abs/2601.10382)|null|
-|**2026-01-15**|**The hidden structure of innovation networks**|Lorenzo Emer et.al.|[2601.10224](http://arxiv.org/abs/2601.10224)|null|
+|**2026-01-16**|**The hidden structure of innovation networks**|Lorenzo Emer et.al.|[2601.10224](http://arxiv.org/abs/2601.10224)|null|
 |**2026-01-15**|**V-Zero: Self-Improving Multimodal Reasoning with Zero Annotation**|Han Wang et.al.|[2601.10094](http://arxiv.org/abs/2601.10094)|null|
 |**2026-01-15**|**Same Activity, Divergent Impacts: Representing Paths Towards Physics Computational Literacy and Physics Identity with Conjecture Mapping-Based Narrative Analysis**|Sarah McHale et.al.|[2601.10005](http://arxiv.org/abs/2601.10005)|null|
 |**2026-01-15**|**Towards Native Intelligence: 6G-LLM Trained with Reinforcement Learning from NDT Feedback**|Zhuoran Xiao et.al.|[2601.09992](http://arxiv.org/abs/2601.09992)|null|
