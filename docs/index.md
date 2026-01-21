@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.01.20
+## Updated on 2026.01.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Autonomous Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-18**|**SGCP: A Self-Organized Game-Theoretic Framework For Collaborative Perception**|Zechuan Gong et.al.|[2601.12524](http://arxiv.org/abs/2601.12524)|null|
+|**2026-01-18**|**Mixtenna: A Self-Biased Nonlinear Patch Antenna for Passive Third-Harmonic Radiation**|Yishai Brill et.al.|[2601.12462](http://arxiv.org/abs/2601.12462)|null|
+|**2026-01-18**|**CD-TWINSAFE: A ROS-enabled Digital Twin for Scene Understanding and Safety Emerging V2I Technology**|Amro Khaled et.al.|[2601.12373](http://arxiv.org/abs/2601.12373)|null|
+|**2026-01-18**|**From Prompts to Pavement: LMMs-based Agentic Behavior-Tree Generation Framework for Autonomous Vehicles**|Omar Y. Goba et.al.|[2601.12358](http://arxiv.org/abs/2601.12358)|null|
+|**2026-01-18**|**Cross-reality Location Privacy Protection in 6G-enabled Vehicular Metaverses: An LLM-enhanced Hybrid Generative Diffusion Model-based Approach**|Xiaofeng Luo et.al.|[2601.12311](http://arxiv.org/abs/2601.12311)|null|
+|**2026-01-18**|**How Safe Is Your Data in Connected and Autonomous Cars: A Consumer Advantage or a Privacy Nightmare ?**|Amit Chougule et.al.|[2601.12284](http://arxiv.org/abs/2601.12284)|null|
+|**2026-01-16**|**Risk-Aware Human-in-the-Loop Framework with Adaptive Intrusion Response for Autonomous Vehicles**|Dawood Wasif et.al.|[2601.11781](http://arxiv.org/abs/2601.11781)|null|
+|**2026-01-15**|**LTV-YOLO: A Lightweight Thermal Object Detector for Young Pedestrians in Adverse Conditions**|Abdullah Jirjees et.al.|[2601.11662](http://arxiv.org/abs/2601.11662)|null|
 |**2026-01-16**|**Distributed Control Barrier Functions for Safe Multi-Vehicle Navigation in Heterogeneous USV Fleets**|Tyler Paine et.al.|[2601.11335](http://arxiv.org/abs/2601.11335)|null|
 |**2026-01-16**|**The fate of a single impurity in the Bose-Hubbard model**|Chao Zhang et.al.|[2601.11058](http://arxiv.org/abs/2601.11058)|null|
 |**2026-01-15**|**SecMLOps: A Comprehensive Framework for Integrating Security Throughout the MLOps Lifecycle**|Xinrui Zhang et.al.|[2601.10848](http://arxiv.org/abs/2601.10848)|null|
@@ -27,6 +35,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-18**|**User-to-Vehicle Interaction in Smart Mobility: The GO-DRiVeS Autonomous Ride-Sharing Application**|Hana E. Elmalah et.al.|[2601.12367](http://arxiv.org/abs/2601.12367)|null|
 |**2026-01-05**|**LLM-Empowered Functional Safety and Security by Design in Automotive Systems**|Nenad Petrovic et.al.|[2601.02215](http://arxiv.org/abs/2601.02215)|null|
 |**2025-12-23**|**UrbanV2X: A Multisensory Vehicle-Infrastructure Dataset for Cooperative Navigation in Urban Areas**|Qijun Qin et.al.|[2512.20224](http://arxiv.org/abs/2512.20224)|null|
 |**2025-12-22**|**Optimal-coupling-observer AV motion control securing comfort in the presence of cyber attacks**|Farzam Tajdari et.al.|[2512.19679](http://arxiv.org/abs/2512.19679)|null|
