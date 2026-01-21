@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-20**|**Multi-Tongue Frequency Fractal Dynamics in Hodgkin-Huxley Neurons Induced by Temporal Interference Stimulation**|Madhurendra Mishra et.al.|[2601.14135](http://arxiv.org/abs/2601.14135)|null|
+|**2026-01-20**|**Correcting and Quantifying Systematic Errors in 3D Box Annotations for Autonomous Driving**|Alexandre Justo Miro et.al.|[2601.14038](http://arxiv.org/abs/2601.14038)|null|
+|**2026-01-19**|**AI-generated data contamination erodes pathological variability and diagnostic reliability**|Hongyu He et.al.|[2601.12946](http://arxiv.org/abs/2601.12946)|null|
+|**2026-01-19**|**Direct measurement of the Orderphobic Effect**|O. D. Lunn et.al.|[2601.12935](http://arxiv.org/abs/2601.12935)|null|
+|**2026-01-19**|**Pollutant-induced changes in fish pigmentation and spatial patterns**|Pranali Roy Chowdhury et.al.|[2601.12801](http://arxiv.org/abs/2601.12801)|null|
+|**2026-01-19**|**Efficient Local-to-Global Collaborative Perception via Joint Communication and Computation Optimization**|Hui Zhang et.al.|[2601.12749](http://arxiv.org/abs/2601.12749)|null|
+|**2026-01-19**|**Mixed Precision PointPillars for Efficient 3D Object Detection with TensorRT**|Ninnart Fuengfusin et.al.|[2601.12638](http://arxiv.org/abs/2601.12638)|null|
+|**2026-01-18**|**Resilient Interval Observer-Based Control for Cooperative Adaptive Cruise Control under FDI Attack**|Parisa Ansari Bonab et.al.|[2601.12625](http://arxiv.org/abs/2601.12625)|null|
 |**2026-01-18**|**SGCP: A Self-Organized Game-Theoretic Framework For Collaborative Perception**|Zechuan Gong et.al.|[2601.12524](http://arxiv.org/abs/2601.12524)|null|
 |**2026-01-18**|**Mixtenna: A Self-Biased Nonlinear Patch Antenna for Passive Third-Harmonic Radiation**|Yishai Brill et.al.|[2601.12462](http://arxiv.org/abs/2601.12462)|null|
 |**2026-01-18**|**CD-TWINSAFE: A ROS-enabled Digital Twin for Scene Understanding and Safety Emerging V2I Technology**|Amro Khaled et.al.|[2601.12373](http://arxiv.org/abs/2601.12373)|null|
@@ -42,6 +50,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-19**|**PrivFly: A Privacy-Preserving Self-Supervised Framework for Rare Attack Detection in IoFT**|Safaa Menssouri et.al.|[2601.13003](http://arxiv.org/abs/2601.13003)|null|
 |**2026-01-18**|**User-to-Vehicle Interaction in Smart Mobility: The GO-DRiVeS Autonomous Ride-Sharing Application**|Hana E. Elmalah et.al.|[2601.12367](http://arxiv.org/abs/2601.12367)|null|
 |**2026-01-05**|**LLM-Empowered Functional Safety and Security by Design in Automotive Systems**|Nenad Petrovic et.al.|[2601.02215](http://arxiv.org/abs/2601.02215)|null|
 |**2025-12-23**|**UrbanV2X: A Multisensory Vehicle-Infrastructure Dataset for Cooperative Navigation in Urban Areas**|Qijun Qin et.al.|[2512.20224](http://arxiv.org/abs/2512.20224)|null|
