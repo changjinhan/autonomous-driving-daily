@@ -2,16 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.01.21
+## Updated on 2026.01.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Autonomous Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**Cosmic strings, domain walls and environment-dependent clustering**|Øyvind Christiansen et.al.|[2601.15234](http://arxiv.org/abs/2601.15234)|null|
+|**2026-01-21**|**Risk Estimation for Automated Driving**|Leon Tolksdorf et.al.|[2601.15018](http://arxiv.org/abs/2601.15018)|null|
+|**2026-01-21**|**Contingency Planning for Safety-Critical Autonomous Vehicles: A Review and Perspectives**|Lei Zheng et.al.|[2601.14880](http://arxiv.org/abs/2601.14880)|null|
+|**2026-01-20**|**Gaussian Based Adaptive Multi-Modal 3D Semantic Occupancy Prediction**|A. Enes Doruk et.al.|[2601.14448](http://arxiv.org/abs/2601.14448)|null|
+|**2026-01-20**|**Vision-Based Natural Language Scene Understanding for Autonomous Driving: An Extended Dataset and a New Model for Traffic Scene Description Generation**|Danial Sadrian Zadeh et.al.|[2601.14438](http://arxiv.org/abs/2601.14438)|null|
 |**2026-01-20**|**Multi-Tongue Frequency Fractal Dynamics in Hodgkin-Huxley Neurons Induced by Temporal Interference Stimulation**|Madhurendra Mishra et.al.|[2601.14135](http://arxiv.org/abs/2601.14135)|null|
 |**2026-01-20**|**Correcting and Quantifying Systematic Errors in 3D Box Annotations for Autonomous Driving**|Alexandre Justo Miro et.al.|[2601.14038](http://arxiv.org/abs/2601.14038)|null|
-|**2026-01-19**|**AI-generated data contamination erodes pathological variability and diagnostic reliability**|Hongyu He et.al.|[2601.12946](http://arxiv.org/abs/2601.12946)|null|
+|**2026-01-21**|**AI-generated data contamination erodes pathological variability and diagnostic reliability**|Hongyu He et.al.|[2601.12946](http://arxiv.org/abs/2601.12946)|null|
 |**2026-01-19**|**Direct measurement of the Orderphobic Effect**|O. D. Lunn et.al.|[2601.12935](http://arxiv.org/abs/2601.12935)|null|
 |**2026-01-19**|**Pollutant-induced changes in fish pigmentation and spatial patterns**|Pranali Roy Chowdhury et.al.|[2601.12801](http://arxiv.org/abs/2601.12801)|null|
 |**2026-01-19**|**Efficient Local-to-Global Collaborative Perception via Joint Communication and Computation Optimization**|Hui Zhang et.al.|[2601.12749](http://arxiv.org/abs/2601.12749)|null|

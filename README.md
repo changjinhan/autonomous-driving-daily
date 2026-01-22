@@ -1,4 +1,4 @@
-## Updated on 2026.01.21
+## Updated on 2026.01.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,9 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**Cosmic strings, domain walls and environment-dependent clustering**|Øyvind Christiansen et.al.|[2601.15234](http://arxiv.org/abs/2601.15234)|null|
+|**2026-01-21**|**Risk Estimation for Automated Driving**|Leon Tolksdorf et.al.|[2601.15018](http://arxiv.org/abs/2601.15018)|null|
+|**2026-01-21**|**Contingency Planning for Safety-Critical Autonomous Vehicles: A Review and Perspectives**|Lei Zheng et.al.|[2601.14880](http://arxiv.org/abs/2601.14880)|null|
+|**2026-01-20**|**Gaussian Based Adaptive Multi-Modal 3D Semantic Occupancy Prediction**|A. Enes Doruk et.al.|[2601.14448](http://arxiv.org/abs/2601.14448)|null|
+|**2026-01-20**|**Vision-Based Natural Language Scene Understanding for Autonomous Driving: An Extended Dataset and a New Model for Traffic Scene Description Generation**|Danial Sadrian Zadeh et.al.|[2601.14438](http://arxiv.org/abs/2601.14438)|null|
 |**2026-01-20**|**Multi-Tongue Frequency Fractal Dynamics in Hodgkin-Huxley Neurons Induced by Temporal Interference Stimulation**|Madhurendra Mishra et.al.|[2601.14135](http://arxiv.org/abs/2601.14135)|null|
 |**2026-01-20**|**Correcting and Quantifying Systematic Errors in 3D Box Annotations for Autonomous Driving**|Alexandre Justo Miro et.al.|[2601.14038](http://arxiv.org/abs/2601.14038)|null|
-|**2026-01-19**|**AI-generated data contamination erodes pathological variability and diagnostic reliability**|Hongyu He et.al.|[2601.12946](http://arxiv.org/abs/2601.12946)|null|
+|**2026-01-21**|**AI-generated data contamination erodes pathological variability and diagnostic reliability**|Hongyu He et.al.|[2601.12946](http://arxiv.org/abs/2601.12946)|null|
 |**2026-01-19**|**Direct measurement of the Orderphobic Effect**|O. D. Lunn et.al.|[2601.12935](http://arxiv.org/abs/2601.12935)|null|
 |**2026-01-19**|**Pollutant-induced changes in fish pigmentation and spatial patterns**|Pranali Roy Chowdhury et.al.|[2601.12801](http://arxiv.org/abs/2601.12801)|null|
 |**2026-01-19**|**Efficient Local-to-Global Collaborative Perception via Joint Communication and Computation Optimization**|Hui Zhang et.al.|[2601.12749](http://arxiv.org/abs/2601.12749)|null|
@@ -44,7 +49,7 @@
 |**2026-01-14**|**LCF3D: A Robust and Real-Time Late-Cascade Fusion Framework for 3D Object Detection in Autonomous Driving**|Carlo Sgaravatti et.al.|[2601.09812](http://arxiv.org/abs/2601.09812)|null|
 |**2026-01-14**|**ReflexDiffusion: Reflection-Enhanced Trajectory Planning for High-lateral-acceleration Scenarios in Autonomous Driving**|Xuemei Yao et.al.|[2601.09377](http://arxiv.org/abs/2601.09377)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 ## Intelligent Vehicles
 
@@ -63,7 +68,7 @@
 |**2025-12-15**|**The Optimal Control Algorithm of Connected and Automated Vehicles at Roundabouts with Communication Delay**|Chen Huang et.al.|[2512.13056](http://arxiv.org/abs/2512.13056)|null|
 |**2025-12-12**|**Shared Situational Awareness Using Hybrid Zonotopes with Confidence Metric**|Vandana Narri et.al.|[2512.11493](http://arxiv.org/abs/2512.11493)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 ## Motion Planning for Vehicles
 
@@ -80,7 +85,7 @@
 |**2025-12-01**|**RoaD: Rollouts as Demonstrations for Closed-Loop Supervised Fine-Tuning of Autonomous Driving Policies**|Guillermo Garcia-Cobo et.al.|[2512.01993](http://arxiv.org/abs/2512.01993)|null|
 |**2025-11-27**|**MTR-VP: Towards End-to-End Trajectory Planning through Context-Driven Image Encoding and Multiple Trajectory Prediction**|Maitrayee Keskar et.al.|[2511.22181](http://arxiv.org/abs/2511.22181)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
