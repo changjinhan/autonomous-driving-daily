@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-22**|**MapViT: A Two-Stage ViT-Based Framework for Real-Time Radio Quality Map Prediction in Dynamic Environments**|Cyril Shih-Huan Hsu et.al.|[2601.15578](http://arxiv.org/abs/2601.15578)|null|
 |**2026-01-21**|**Cosmic strings, domain walls and environment-dependent clustering**|Øyvind Christiansen et.al.|[2601.15234](http://arxiv.org/abs/2601.15234)|null|
 |**2026-01-21**|**Risk Estimation for Automated Driving**|Leon Tolksdorf et.al.|[2601.15018](http://arxiv.org/abs/2601.15018)|null|
 |**2026-01-21**|**Contingency Planning for Safety-Critical Autonomous Vehicles: A Review and Perspectives**|Lei Zheng et.al.|[2601.14880](http://arxiv.org/abs/2601.14880)|null|
