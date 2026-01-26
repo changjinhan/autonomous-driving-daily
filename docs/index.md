@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.01.25
+## Updated on 2026.01.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Autonomous Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**Photoinduced metastable cation disorder in metal halide double perovskites**|Shunran Li et.al.|[2601.16404](http://arxiv.org/abs/2601.16404)|null|
+|**2026-01-22**|**Elucidating Three-Dimensional Coherent Structures in a Multi-Stream Jet**|Mitesh Thakor et.al.|[2601.16351](http://arxiv.org/abs/2601.16351)|null|
+|**2026-01-22**|**DMAVA: Distributed Multi-Autonomous Vehicle Architecture Using Autoware**|Zubair Islam et.al.|[2601.16336](http://arxiv.org/abs/2601.16336)|null|
+|**2026-01-22**|**Collective Rabi-driven vibrational activation in molecular polaritons**|Carlos M. Bustamante et.al.|[2601.16299](http://arxiv.org/abs/2601.16299)|null|
 |**2026-01-22**|**MapViT: A Two-Stage ViT-Based Framework for Real-Time Radio Quality Map Prediction in Dynamic Environments**|Cyril Shih-Huan Hsu et.al.|[2601.15578](http://arxiv.org/abs/2601.15578)|null|
 |**2026-01-21**|**Cosmic strings, domain walls and environment-dependent clustering**|Øyvind Christiansen et.al.|[2601.15234](http://arxiv.org/abs/2601.15234)|null|
 |**2026-01-21**|**Risk Estimation for Automated Driving**|Leon Tolksdorf et.al.|[2601.15018](http://arxiv.org/abs/2601.15018)|null|
@@ -49,6 +53,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**Zero-Shot MARL Benchmark in the Cyber-Physical Mobility Lab**|Julius Beerwerth et.al.|[2601.16578](http://arxiv.org/abs/2601.16578)|null|
 |**2026-01-19**|**PrivFly: A Privacy-Preserving Self-Supervised Framework for Rare Attack Detection in IoFT**|Safaa Menssouri et.al.|[2601.13003](http://arxiv.org/abs/2601.13003)|null|
 |**2026-01-18**|**User-to-Vehicle Interaction in Smart Mobility: The GO-DRiVeS Autonomous Ride-Sharing Application**|Hana E. Elmalah et.al.|[2601.12367](http://arxiv.org/abs/2601.12367)|null|
 |**2026-01-05**|**LLM-Empowered Functional Safety and Security by Design in Automotive Systems**|Nenad Petrovic et.al.|[2601.02215](http://arxiv.org/abs/2601.02215)|null|
