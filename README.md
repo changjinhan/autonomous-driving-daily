@@ -1,4 +1,4 @@
-## Updated on 2026.01.26
+## Updated on 2026.01.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-25**|**Agentic AI for Self-Driving Laboratories in Soft Matter: Taxonomy, Benchmarks,and Open Challenges**|Xuanzhou Chen et.al.|[2601.17920](http://arxiv.org/abs/2601.17920)|null|
+|**2026-01-25**|**An autonomous living database for perovskite photovoltaics**|Sherjeel Shabih et.al.|[2601.17807](http://arxiv.org/abs/2601.17807)|null|
+|**2026-01-24**|**Correct-by-Construction Vision-based Pose Estimation using Geometric Generative Models**|Ulices Santa Cruz et.al.|[2601.17556](http://arxiv.org/abs/2601.17556)|null|
+|**2026-01-24**|**Efficient Self-Learning and Model Versioning for AI-native O-RAN Edge**|Mounir Bensalem et.al.|[2601.17534](http://arxiv.org/abs/2601.17534)|null|
+|**2026-01-23**|**Non-Equilibrium Relativistic Core Collapse of Self-Interacting Dark Matter Halos -- Limits On Seed Black Hole Mass**|Hua-Peng Gu et.al.|[2601.17117](http://arxiv.org/abs/2601.17117)|null|
 |**2026-01-23**|**Photoinduced metastable cation disorder in metal halide double perovskites**|Shunran Li et.al.|[2601.16404](http://arxiv.org/abs/2601.16404)|null|
 |**2026-01-22**|**Elucidating Three-Dimensional Coherent Structures in a Multi-Stream Jet**|Mitesh Thakor et.al.|[2601.16351](http://arxiv.org/abs/2601.16351)|null|
 |**2026-01-22**|**DMAVA: Distributed Multi-Autonomous Vehicle Architecture Using Autoware**|Zubair Islam et.al.|[2601.16336](http://arxiv.org/abs/2601.16336)|null|
@@ -54,7 +59,7 @@
 |**2026-01-14**|**LCF3D: A Robust and Real-Time Late-Cascade Fusion Framework for 3D Object Detection in Autonomous Driving**|Carlo Sgaravatti et.al.|[2601.09812](http://arxiv.org/abs/2601.09812)|null|
 |**2026-01-14**|**ReflexDiffusion: Reflection-Enhanced Trajectory Planning for High-lateral-acceleration Scenarios in Autonomous Driving**|Xuemei Yao et.al.|[2601.09377](http://arxiv.org/abs/2601.09377)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
 
 ## Intelligent Vehicles
 
@@ -74,7 +79,7 @@
 |**2025-12-15**|**The Optimal Control Algorithm of Connected and Automated Vehicles at Roundabouts with Communication Delay**|Chen Huang et.al.|[2512.13056](http://arxiv.org/abs/2512.13056)|null|
 |**2025-12-12**|**Shared Situational Awareness Using Hybrid Zonotopes with Confidence Metric**|Vandana Narri et.al.|[2512.11493](http://arxiv.org/abs/2512.11493)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
 
 ## Motion Planning for Vehicles
 
@@ -91,7 +96,7 @@
 |**2025-12-01**|**RoaD: Rollouts as Demonstrations for Closed-Loop Supervised Fine-Tuning of Autonomous Driving Policies**|Guillermo Garcia-Cobo et.al.|[2512.01993](http://arxiv.org/abs/2512.01993)|null|
 |**2025-11-27**|**MTR-VP: Towards End-to-End Trajectory Planning through Context-Driven Image Encoding and Multiple Trajectory Prediction**|Maitrayee Keskar et.al.|[2511.22181](http://arxiv.org/abs/2511.22181)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

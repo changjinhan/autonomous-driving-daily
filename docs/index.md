@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.01.26
+## Updated on 2026.01.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Autonomous Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-25**|**Agentic AI for Self-Driving Laboratories in Soft Matter: Taxonomy, Benchmarks,and Open Challenges**|Xuanzhou Chen et.al.|[2601.17920](http://arxiv.org/abs/2601.17920)|null|
+|**2026-01-25**|**An autonomous living database for perovskite photovoltaics**|Sherjeel Shabih et.al.|[2601.17807](http://arxiv.org/abs/2601.17807)|null|
+|**2026-01-24**|**Correct-by-Construction Vision-based Pose Estimation using Geometric Generative Models**|Ulices Santa Cruz et.al.|[2601.17556](http://arxiv.org/abs/2601.17556)|null|
+|**2026-01-24**|**Efficient Self-Learning and Model Versioning for AI-native O-RAN Edge**|Mounir Bensalem et.al.|[2601.17534](http://arxiv.org/abs/2601.17534)|null|
+|**2026-01-23**|**Non-Equilibrium Relativistic Core Collapse of Self-Interacting Dark Matter Halos -- Limits On Seed Black Hole Mass**|Hua-Peng Gu et.al.|[2601.17117](http://arxiv.org/abs/2601.17117)|null|
 |**2026-01-23**|**Photoinduced metastable cation disorder in metal halide double perovskites**|Shunran Li et.al.|[2601.16404](http://arxiv.org/abs/2601.16404)|null|
 |**2026-01-22**|**Elucidating Three-Dimensional Coherent Structures in a Multi-Stream Jet**|Mitesh Thakor et.al.|[2601.16351](http://arxiv.org/abs/2601.16351)|null|
 |**2026-01-22**|**DMAVA: Distributed Multi-Autonomous Vehicle Architecture Using Autoware**|Zubair Islam et.al.|[2601.16336](http://arxiv.org/abs/2601.16336)|null|
