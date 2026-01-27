@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-26**|**Order Out of Noise and Disorder: Fate of the Frustrated Manifold**|Igor Halperin et.al.|[2601.18653](http://arxiv.org/abs/2601.18653)|null|
+|**2026-01-26**|**Synchronization and Localization in Ad-Hoc ICAS Networks Using a Two-Stage Kuramoto Method**|Dominik Neudert-Schulz et.al.|[2601.18643](http://arxiv.org/abs/2601.18643)|null|
+|**2026-01-26**|**SG-CADVLM: A Context-Aware Decoding Powered Vision Language Model for Safety-Critical Scenario Generation**|Hongyi Zhao et.al.|[2601.18442](http://arxiv.org/abs/2601.18442)|null|
+|**2026-01-26**|**Self-assembly of quasicrystals under cyclic shear**|Raphaël Maire et.al.|[2601.18403](http://arxiv.org/abs/2601.18403)|null|
+|**2026-01-26**|**Reinforcement Learning with Distributed MPC for Fuel-Efficient Platoon Control with Discrete Gear Transitions**|Samuel Mallick et.al.|[2601.18294](http://arxiv.org/abs/2601.18294)|null|
+|**2026-01-26**|**Experimental investigation of wall-pressure fluctuations on a fully appended submarine model at high Reynolds numbers**|Peng Jiang et.al.|[2601.18201](http://arxiv.org/abs/2601.18201)|null|
 |**2026-01-25**|**Agentic AI for Self-Driving Laboratories in Soft Matter: Taxonomy, Benchmarks,and Open Challenges**|Xuanzhou Chen et.al.|[2601.17920](http://arxiv.org/abs/2601.17920)|null|
 |**2026-01-25**|**An autonomous living database for perovskite photovoltaics**|Sherjeel Shabih et.al.|[2601.17807](http://arxiv.org/abs/2601.17807)|null|
 |**2026-01-24**|**Correct-by-Construction Vision-based Pose Estimation using Geometric Generative Models**|Ulices Santa Cruz et.al.|[2601.17556](http://arxiv.org/abs/2601.17556)|null|
