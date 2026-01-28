@@ -1,4 +1,4 @@
-## Updated on 2026.01.27
+## Updated on 2026.01.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-26**|**A Switching Nonlinear Model Predictive Control Strategy for Safe Collision Handling by an Underwater Vehicle-Manipulator System**|Ioannis G. Polyzos et.al.|[2601.18971](http://arxiv.org/abs/2601.18971)|null|
+|**2026-01-26**|**Learning the Pareto Space of Multi-Objective Autonomous Driving: A Modular, Data-Driven Approach**|Mohammad Elayan et.al.|[2601.18913](http://arxiv.org/abs/2601.18913)|null|
 |**2026-01-26**|**Order Out of Noise and Disorder: Fate of the Frustrated Manifold**|Igor Halperin et.al.|[2601.18653](http://arxiv.org/abs/2601.18653)|null|
 |**2026-01-26**|**Synchronization and Localization in Ad-Hoc ICAS Networks Using a Two-Stage Kuramoto Method**|Dominik Neudert-Schulz et.al.|[2601.18643](http://arxiv.org/abs/2601.18643)|null|
 |**2026-01-26**|**SG-CADVLM: A Context-Aware Decoding Powered Vision Language Model for Safety-Critical Scenario Generation**|Hongyi Zhao et.al.|[2601.18442](http://arxiv.org/abs/2601.18442)|null|
@@ -65,12 +67,13 @@
 |**2026-01-14**|**LCF3D: A Robust and Real-Time Late-Cascade Fusion Framework for 3D Object Detection in Autonomous Driving**|Carlo Sgaravatti et.al.|[2601.09812](http://arxiv.org/abs/2601.09812)|null|
 |**2026-01-14**|**ReflexDiffusion: Reflection-Enhanced Trajectory Planning for High-lateral-acceleration Scenarios in Autonomous Driving**|Xuemei Yao et.al.|[2601.09377](http://arxiv.org/abs/2601.09377)|null|
 
-<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260128>back to top</a>)</p>
 
 ## Intelligent Vehicles
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-27**|**Eco-Driving Control for Electric Vehicles with Multi-Speed Transmission: Optimizing Vehicle Speed and Powertrain Operation in Dynamic Environments**|Suiyi He et.al.|[2601.19340](http://arxiv.org/abs/2601.19340)|null|
 |**2026-01-23**|**Zero-Shot MARL Benchmark in the Cyber-Physical Mobility Lab**|Julius Beerwerth et.al.|[2601.16578](http://arxiv.org/abs/2601.16578)|null|
 |**2026-01-19**|**PrivFly: A Privacy-Preserving Self-Supervised Framework for Rare Attack Detection in IoFT**|Safaa Menssouri et.al.|[2601.13003](http://arxiv.org/abs/2601.13003)|null|
 |**2026-01-18**|**User-to-Vehicle Interaction in Smart Mobility: The GO-DRiVeS Autonomous Ride-Sharing Application**|Hana E. Elmalah et.al.|[2601.12367](http://arxiv.org/abs/2601.12367)|null|
@@ -85,7 +88,7 @@
 |**2025-12-15**|**The Optimal Control Algorithm of Connected and Automated Vehicles at Roundabouts with Communication Delay**|Chen Huang et.al.|[2512.13056](http://arxiv.org/abs/2512.13056)|null|
 |**2025-12-12**|**Shared Situational Awareness Using Hybrid Zonotopes with Confidence Metric**|Vandana Narri et.al.|[2512.11493](http://arxiv.org/abs/2512.11493)|null|
 
-<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260128>back to top</a>)</p>
 
 ## Motion Planning for Vehicles
 
@@ -102,7 +105,7 @@
 |**2025-12-01**|**RoaD: Rollouts as Demonstrations for Closed-Loop Supervised Fine-Tuning of Autonomous Driving Policies**|Guillermo Garcia-Cobo et.al.|[2512.01993](http://arxiv.org/abs/2512.01993)|null|
 |**2025-11-27**|**MTR-VP: Towards End-to-End Trajectory Planning through Context-Driven Image Encoding and Multiple Trajectory Prediction**|Maitrayee Keskar et.al.|[2511.22181](http://arxiv.org/abs/2511.22181)|null|
 
-<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260128>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

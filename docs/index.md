@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.01.27
+## Updated on 2026.01.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Autonomous Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-26**|**A Switching Nonlinear Model Predictive Control Strategy for Safe Collision Handling by an Underwater Vehicle-Manipulator System**|Ioannis G. Polyzos et.al.|[2601.18971](http://arxiv.org/abs/2601.18971)|null|
+|**2026-01-26**|**Learning the Pareto Space of Multi-Objective Autonomous Driving: A Modular, Data-Driven Approach**|Mohammad Elayan et.al.|[2601.18913](http://arxiv.org/abs/2601.18913)|null|
 |**2026-01-26**|**Order Out of Noise and Disorder: Fate of the Frustrated Manifold**|Igor Halperin et.al.|[2601.18653](http://arxiv.org/abs/2601.18653)|null|
 |**2026-01-26**|**Synchronization and Localization in Ad-Hoc ICAS Networks Using a Two-Stage Kuramoto Method**|Dominik Neudert-Schulz et.al.|[2601.18643](http://arxiv.org/abs/2601.18643)|null|
 |**2026-01-26**|**SG-CADVLM: A Context-Aware Decoding Powered Vision Language Model for Safety-Critical Scenario Generation**|Hongyi Zhao et.al.|[2601.18442](http://arxiv.org/abs/2601.18442)|null|
@@ -64,6 +66,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Eco-Driving Control for Electric Vehicles with Multi-Speed Transmission: Optimizing Vehicle Speed and Powertrain Operation in Dynamic Environments**|Suiyi He et.al.|[2601.19340](http://arxiv.org/abs/2601.19340)|null|
 |**2026-01-23**|**Zero-Shot MARL Benchmark in the Cyber-Physical Mobility Lab**|Julius Beerwerth et.al.|[2601.16578](http://arxiv.org/abs/2601.16578)|null|
 |**2026-01-19**|**PrivFly: A Privacy-Preserving Self-Supervised Framework for Rare Attack Detection in IoFT**|Safaa Menssouri et.al.|[2601.13003](http://arxiv.org/abs/2601.13003)|null|
 |**2026-01-18**|**User-to-Vehicle Interaction in Smart Mobility: The GO-DRiVeS Autonomous Ride-Sharing Application**|Hana E. Elmalah et.al.|[2601.12367](http://arxiv.org/abs/2601.12367)|null|
