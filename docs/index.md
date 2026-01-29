@@ -2,18 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.01.28
+## Updated on 2026.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Autonomous Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**Vehicular Wireless Positioning -- A Survey**|Sharief Saleh et.al.|[2601.20547](http://arxiv.org/abs/2601.20547)|null|
 |**2026-01-26**|**A Switching Nonlinear Model Predictive Control Strategy for Safe Collision Handling by an Underwater Vehicle-Manipulator System**|Ioannis G. Polyzos et.al.|[2601.18971](http://arxiv.org/abs/2601.18971)|null|
 |**2026-01-26**|**Learning the Pareto Space of Multi-Objective Autonomous Driving: A Modular, Data-Driven Approach**|Mohammad Elayan et.al.|[2601.18913](http://arxiv.org/abs/2601.18913)|null|
-|**2026-01-26**|**Order Out of Noise and Disorder: Fate of the Frustrated Manifold**|Igor Halperin et.al.|[2601.18653](http://arxiv.org/abs/2601.18653)|null|
+|**2026-01-28**|**Order Out of Noise and Disorder: Fate of the Frustrated Manifold**|Igor Halperin et.al.|[2601.18653](http://arxiv.org/abs/2601.18653)|null|
 |**2026-01-26**|**Synchronization and Localization in Ad-Hoc ICAS Networks Using a Two-Stage Kuramoto Method**|Dominik Neudert-Schulz et.al.|[2601.18643](http://arxiv.org/abs/2601.18643)|null|
-|**2026-01-26**|**SG-CADVLM: A Context-Aware Decoding Powered Vision Language Model for Safety-Critical Scenario Generation**|Hongyi Zhao et.al.|[2601.18442](http://arxiv.org/abs/2601.18442)|null|
+|**2026-01-28**|**SG-CADVLM: A Context-Aware Decoding Powered Vision Language Model for Safety-Critical Scenario Generation**|Hongyi Zhao et.al.|[2601.18442](http://arxiv.org/abs/2601.18442)|null|
 |**2026-01-26**|**Self-assembly of quasicrystals under cyclic shear**|Raphaël Maire et.al.|[2601.18403](http://arxiv.org/abs/2601.18403)|null|
 |**2026-01-26**|**Reinforcement Learning with Distributed MPC for Fuel-Efficient Platoon Control with Discrete Gear Transitions**|Samuel Mallick et.al.|[2601.18294](http://arxiv.org/abs/2601.18294)|null|
 |**2026-01-26**|**Experimental investigation of wall-pressure fluctuations on a fully appended submarine model at high Reynolds numbers**|Peng Jiang et.al.|[2601.18201](http://arxiv.org/abs/2601.18201)|null|
