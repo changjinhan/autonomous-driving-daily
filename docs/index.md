@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.01.29
+## Updated on 2026.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Autonomous Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**DreamActor-M2: Universal Character Image Animation via Spatiotemporal In-Context Learning**|Mingshuang Luo et.al.|[2601.21716](http://arxiv.org/abs/2601.21716)|null|
+|**2026-01-29**|**Mixing-induced thermal instabilities and coronal condensations**|B. Snow et.al.|[2601.21691](http://arxiv.org/abs/2601.21691)|null|
+|**2026-01-29**|**BAP-SRL: Bayesian Adaptive Priority Safe Reinforcement Learning for Vehicle Motion Planning at Mixed Traffic Intersections**|Yuansheng Lian et.al.|[2601.21679](http://arxiv.org/abs/2601.21679)|null|
+|**2026-01-29**|**Don't double it: Efficient Agent Prediction in Occlusions**|Anna Rothenhäusler et.al.|[2601.21504](http://arxiv.org/abs/2601.21504)|null|
+|**2026-01-28**|**The Impact of Shared Autonomous Vehicles in Microtransit Systems: A Case Study in Atlanta**|Jason Lu et.al.|[2601.21046](http://arxiv.org/abs/2601.21046)|null|
 |**2026-01-28**|**Vehicular Wireless Positioning -- A Survey**|Sharief Saleh et.al.|[2601.20547](http://arxiv.org/abs/2601.20547)|null|
 |**2026-01-26**|**A Switching Nonlinear Model Predictive Control Strategy for Safe Collision Handling by an Underwater Vehicle-Manipulator System**|Ioannis G. Polyzos et.al.|[2601.18971](http://arxiv.org/abs/2601.18971)|null|
 |**2026-01-26**|**Learning the Pareto Space of Multi-Objective Autonomous Driving: A Modular, Data-Driven Approach**|Mohammad Elayan et.al.|[2601.18913](http://arxiv.org/abs/2601.18913)|null|
