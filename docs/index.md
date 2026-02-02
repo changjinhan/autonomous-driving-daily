@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.02.01
+## Updated on 2026.02.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Autonomous Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-30**|**Linear perturbation theory and structure formation in a Brans-Dicke theory of gravity without dark matter**|Lorenzo Gervani et.al.|[2601.22937](http://arxiv.org/abs/2601.22937)|null|
+|**2026-01-30**|**Toward Fully Autonomous Driving: AI, Challenges, Opportunities, and Needs**|Lars Ullrich et.al.|[2601.22927](http://arxiv.org/abs/2601.22927)|null|
+|**2026-01-30**|**A Comparative Evaluation of Large Vision-Language Models for 2D Object Detection under SOTIF Conditions**|Ji Zhou et.al.|[2601.22830](http://arxiv.org/abs/2601.22830)|null|
+|**2026-01-30**|**Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution**|Hongze Mi et.al.|[2601.22528](http://arxiv.org/abs/2601.22528)|null|
+|**2026-01-30**|**Why Self-Rewarding Works: Theoretical Guarantees for Iterative Alignment of Language Models**|Shi Fu et.al.|[2601.22513](http://arxiv.org/abs/2601.22513)|null|
+|**2026-01-30**|**Why Johnny Can't Think: GenAI's Impacts on Cognitive Engagement**|Rudrajit Choudhuri et.al.|[2601.22430](http://arxiv.org/abs/2601.22430)|null|
+|**2026-01-29**|**Aligning Microscopic Vehicle and Macroscopic Traffic Statistics: Reconstructing Driving Behavior from Partial Data**|Zhihao Zhang et.al.|[2601.22242](http://arxiv.org/abs/2601.22242)|null|
 |**2026-01-29**|**Emergent Spatial Textures from Interaction Quenches in the Hubbard Model**|Sankha Subhra Bakshi et.al.|[2601.22053](http://arxiv.org/abs/2601.22053)|null|
 |**2026-01-29**|**Drive-JEPA: Video JEPA Meets Multimodal Trajectory Distillation for End-to-End Driving**|Linhan Wang et.al.|[2601.22032](http://arxiv.org/abs/2601.22032)|null|
 |**2026-01-29**|**Mode Switching Through Exceptional Points Induced by Lasing-Inversion Coupling**|Xingwei Gao et.al.|[2601.21907](http://arxiv.org/abs/2601.21907)|null|
