@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**IRL-DAL: Safe and Adaptive Trajectory Planning for Autonomous Driving via Energy-Guided Diffusion Models**|Seyed Ahmad Hosseini Miangoleh et.al.|[2601.23266](http://arxiv.org/abs/2601.23266)|null|
+|**2026-01-30**|**Spatial self-organization driven by temporal noise**|Satyam Anand et.al.|[2601.23098](http://arxiv.org/abs/2601.23098)|null|
 |**2026-01-30**|**Linear perturbation theory and structure formation in a Brans-Dicke theory of gravity without dark matter**|Lorenzo Gervani et.al.|[2601.22937](http://arxiv.org/abs/2601.22937)|null|
 |**2026-01-30**|**Toward Fully Autonomous Driving: AI, Challenges, Opportunities, and Needs**|Lars Ullrich et.al.|[2601.22927](http://arxiv.org/abs/2601.22927)|null|
 |**2026-01-30**|**A Comparative Evaluation of Large Vision-Language Models for 2D Object Detection under SOTIF Conditions**|Ji Zhou et.al.|[2601.22830](http://arxiv.org/abs/2601.22830)|null|
