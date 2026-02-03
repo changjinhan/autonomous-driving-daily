@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.02.02
+## Updated on 2026.02.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Autonomous Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Bandwidth-Efficient Multi-Agent Communication through Information Bottleneck and Vector Quantization**|Ahmad Farooq et.al.|[2602.02035](http://arxiv.org/abs/2602.02035)|null|
+|**2026-02-02**|**Path Tracking with Dynamic Control Point Blending for Autonomous Vehicles: An Experimental Study**|Alexandre Lombard et.al.|[2602.01892](http://arxiv.org/abs/2602.01892)|null|
+|**2026-02-02**|**Quantum vortex channels as Josephson junctions**|Natalia Masalaeva et.al.|[2602.01889](http://arxiv.org/abs/2602.01889)|null|
+|**2026-02-02**|**Synesthesia of Vehicles: Tactile Data Synthesis from Visual Inputs**|Rui Wang et.al.|[2602.01832](http://arxiv.org/abs/2602.01832)|null|
+|**2026-02-02**|**From Perception to Action: Spatial AI Agents and World Models**|Gloria Felicia et.al.|[2602.01644](http://arxiv.org/abs/2602.01644)|null|
+|**2026-02-01**|**HERMES: A Holistic End-to-End Risk-Aware Multimodal Embodied System with Vision-Language Models for Long-Tail Autonomous Driving**|Weizhe Tang et.al.|[2602.00993](http://arxiv.org/abs/2602.00993)|null|
+|**2026-01-31**|**A Graph-based Framework for Coverage Analysis in Autonomous Driving**|Thomas Muehlenstädt et.al.|[2602.00903](http://arxiv.org/abs/2602.00903)|null|
+|**2026-01-31**|**VVLoc: Prior-free 3-DoF Vehicle Visual Localization**|Ze Huang et.al.|[2602.00810](http://arxiv.org/abs/2602.00810)|null|
+|**2026-01-30**|**Deep Learning-Based Object Detection for Autonomous Vehicles: A Comparative Study of One-Stage and Two-Stage Detectors on Basic Traffic Objects**|Bsher Karbouj et.al.|[2602.00385](http://arxiv.org/abs/2602.00385)|null|
+|**2026-01-30**|**Motion Planning with Metric Temporal Logic Using Reachability Analysis and Hybrid Zonotopes**|Andrew F. Thompson et.al.|[2602.00325](http://arxiv.org/abs/2602.00325)|null|
 |**2026-01-30**|**IRL-DAL: Safe and Adaptive Trajectory Planning for Autonomous Driving via Energy-Guided Diffusion Models**|Seyed Ahmad Hosseini Miangoleh et.al.|[2601.23266](http://arxiv.org/abs/2601.23266)|null|
 |**2026-01-30**|**Spatial self-organization driven by temporal noise**|Satyam Anand et.al.|[2601.23098](http://arxiv.org/abs/2601.23098)|null|
 |**2026-01-30**|**Linear perturbation theory and structure formation in a Brans-Dicke theory of gravity without dark matter**|Lorenzo Gervani et.al.|[2601.22937](http://arxiv.org/abs/2601.22937)|null|
@@ -84,6 +94,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**UV-M3TL: A Unified and Versatile Multimodal Multi-Task Learning Framework for Assistive Driving Perception**|Wenzhuo Liu et.al.|[2602.01594](http://arxiv.org/abs/2602.01594)|null|
+|**2026-02-01**|**Cross-Paradigm Evaluation of Gaze-Based Semantic Object Identification for Intelligent Vehicles**|Penghao Deng et.al.|[2602.01452](http://arxiv.org/abs/2602.01452)|null|
 |**2026-01-27**|**Eco-Driving Control for Electric Vehicles with Multi-Speed Transmission: Optimizing Vehicle Speed and Powertrain Operation in Dynamic Environments**|Suiyi He et.al.|[2601.19340](http://arxiv.org/abs/2601.19340)|null|
 |**2026-01-23**|**Zero-Shot MARL Benchmark in the Cyber-Physical Mobility Lab**|Julius Beerwerth et.al.|[2601.16578](http://arxiv.org/abs/2601.16578)|null|
 |**2026-01-19**|**PrivFly: A Privacy-Preserving Self-Supervised Framework for Rare Attack Detection in IoFT**|Safaa Menssouri et.al.|[2601.13003](http://arxiv.org/abs/2601.13003)|null|
