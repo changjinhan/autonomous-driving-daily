@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.02.03
+## Updated on 2026.02.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Autonomous Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**HetroD: A High-Fidelity Drone Dataset and Benchmark for Autonomous Driving in Heterogeneous Traffic**|Yu-Hsiang Chen et.al.|[2602.03447](http://arxiv.org/abs/2602.03447)|null|
+|**2026-02-03**|**Skill-Based Autonomous Agents for Material Creep Database Construction**|Yue Wu et.al.|[2602.03069](http://arxiv.org/abs/2602.03069)|null|
+|**2026-02-03**|**Large Language Models Can Take False First Steps at Inference-time Planning**|Haijiang Yan et.al.|[2602.02991](http://arxiv.org/abs/2602.02991)|null|
+|**2026-02-02**|**Accelerating Structured Chain-of-Thought in Autonomous Vehicles**|Yi Gu et.al.|[2602.02864](http://arxiv.org/abs/2602.02864)|null|
+|**2026-02-02**|**Straintronics and twistronics in bilayer graphene**|Federico Escudero et.al.|[2602.02692](http://arxiv.org/abs/2602.02692)|null|
 |**2026-02-02**|**Bandwidth-Efficient Multi-Agent Communication through Information Bottleneck and Vector Quantization**|Ahmad Farooq et.al.|[2602.02035](http://arxiv.org/abs/2602.02035)|null|
 |**2026-02-02**|**Path Tracking with Dynamic Control Point Blending for Autonomous Vehicles: An Experimental Study**|Alexandre Lombard et.al.|[2602.01892](http://arxiv.org/abs/2602.01892)|null|
 |**2026-02-02**|**Quantum vortex channels as Josephson junctions**|Natalia Masalaeva et.al.|[2602.01889](http://arxiv.org/abs/2602.01889)|null|
