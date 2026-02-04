@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**A Lightweight Library for Energy-Based Joint-Embedding Predictive Architectures**|Basile Terver et.al.|[2602.03604](http://arxiv.org/abs/2602.03604)|null|
+|**2026-02-03**|**Multi-Player, Multi-Strategy Quantum Game Model for Interaction-Aware Decision-Making in Autonomous Driving**|Karim Essalmi et.al.|[2602.03571](http://arxiv.org/abs/2602.03571)|null|
 |**2026-02-03**|**HetroD: A High-Fidelity Drone Dataset and Benchmark for Autonomous Driving in Heterogeneous Traffic**|Yu-Hsiang Chen et.al.|[2602.03447](http://arxiv.org/abs/2602.03447)|null|
 |**2026-02-03**|**Skill-Based Autonomous Agents for Material Creep Database Construction**|Yue Wu et.al.|[2602.03069](http://arxiv.org/abs/2602.03069)|null|
 |**2026-02-03**|**Large Language Models Can Take False First Steps at Inference-time Planning**|Haijiang Yan et.al.|[2602.02991](http://arxiv.org/abs/2602.02991)|null|
@@ -99,6 +101,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Efficient Sequential Neural Network with Spatial-Temporal Attention and Linear LSTM for Robust Lane Detection Using Multi-Frame Images**|Sandeep Patil et.al.|[2602.03669](http://arxiv.org/abs/2602.03669)|null|
 |**2026-02-02**|**UV-M3TL: A Unified and Versatile Multimodal Multi-Task Learning Framework for Assistive Driving Perception**|Wenzhuo Liu et.al.|[2602.01594](http://arxiv.org/abs/2602.01594)|null|
 |**2026-02-01**|**Cross-Paradigm Evaluation of Gaze-Based Semantic Object Identification for Intelligent Vehicles**|Penghao Deng et.al.|[2602.01452](http://arxiv.org/abs/2602.01452)|null|
 |**2026-01-27**|**Eco-Driving Control for Electric Vehicles with Multi-Speed Transmission: Optimizing Vehicle Speed and Powertrain Operation in Dynamic Environments**|Suiyi He et.al.|[2601.19340](http://arxiv.org/abs/2601.19340)|null|
@@ -121,7 +124,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-01-29**|**Drive-JEPA: Video JEPA Meets Multimodal Trajectory Distillation for End-to-End Driving**|Linhan Wang et.al.|[2601.22032](http://arxiv.org/abs/2601.22032)|null|
-|**2026-01-08**|**Driving on Registers**|Ellington Kirby et.al.|[2601.05083](http://arxiv.org/abs/2601.05083)|null|
+|**2026-02-03**|**Driving on Registers**|Ellington Kirby et.al.|[2601.05083](http://arxiv.org/abs/2601.05083)|null|
 |**2026-01-06**|**FROST-Drive: Scalable and Efficient End-to-End Driving with a Frozen Vision Encoder**|Zeyu Dong et.al.|[2601.03460](http://arxiv.org/abs/2601.03460)|null|
 |**2025-12-23**|**LEAD: Minimizing Learner-Expert Asymmetry in End-to-End Driving**|Long Nguyen et.al.|[2512.20563](http://arxiv.org/abs/2512.20563)|null|
 |**2025-12-18**|**Towards Closing the Domain Gap with Event Cameras**|M. Oltan Sevinc et.al.|[2512.16178](http://arxiv.org/abs/2512.16178)|null|
