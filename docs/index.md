@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.02.04
+## Updated on 2026.02.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Autonomous Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**SPOT-Occ: Sparse Prototype-guided Transformer for Camera-based 3D Occupancy Prediction**|Suzeyu Chen et.al.|[2602.04240](http://arxiv.org/abs/2602.04240)|null|
+|**2026-02-04**|**The Dynamics of Attention across Automated and Manual Driving Modes: A Driving Simulation Study**|Yuan Cai et.al.|[2602.04164](http://arxiv.org/abs/2602.04164)|null|
+|**2026-02-04**|**Scalable Explainability-as-a-Service (XaaS) for Edge AI Systems**|Samaresh Kumar Singh et.al.|[2602.04120](http://arxiv.org/abs/2602.04120)|null|
 |**2026-02-03**|**A Lightweight Library for Energy-Based Joint-Embedding Predictive Architectures**|Basile Terver et.al.|[2602.03604](http://arxiv.org/abs/2602.03604)|null|
 |**2026-02-03**|**Multi-Player, Multi-Strategy Quantum Game Model for Interaction-Aware Decision-Making in Autonomous Driving**|Karim Essalmi et.al.|[2602.03571](http://arxiv.org/abs/2602.03571)|null|
 |**2026-02-03**|**HetroD: A High-Fidelity Drone Dataset and Benchmark for Autonomous Driving in Heterogeneous Traffic**|Yu-Hsiang Chen et.al.|[2602.03447](http://arxiv.org/abs/2602.03447)|null|
@@ -101,6 +104,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-25**|**From Expectation To Experience: A Before And After Survey Of Public Opinion On Autonomous Cars In Saudi Arabia**|Mona Alfayez et.al.|[2602.03854](http://arxiv.org/abs/2602.03854)|null|
 |**2026-02-03**|**Efficient Sequential Neural Network with Spatial-Temporal Attention and Linear LSTM for Robust Lane Detection Using Multi-Frame Images**|Sandeep Patil et.al.|[2602.03669](http://arxiv.org/abs/2602.03669)|null|
 |**2026-02-02**|**UV-M3TL: A Unified and Versatile Multimodal Multi-Task Learning Framework for Assistive Driving Perception**|Wenzhuo Liu et.al.|[2602.01594](http://arxiv.org/abs/2602.01594)|null|
 |**2026-02-01**|**Cross-Paradigm Evaluation of Gaze-Based Semantic Object Identification for Intelligent Vehicles**|Penghao Deng et.al.|[2602.01452](http://arxiv.org/abs/2602.01452)|null|
@@ -123,6 +127,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**AppleVLM: End-to-end Autonomous Driving with Advanced Perception and Planning-Enhanced Vision-Language Models**|Yuxuan Han et.al.|[2602.04256](http://arxiv.org/abs/2602.04256)|null|
+|**2026-02-04**|**Natural Language Instructions for Scene-Responsive Human-in-the-Loop Motion Planning in Autonomous Driving using Vision-Language-Action Models**|Angel Martinez-Sanchez et.al.|[2602.04184](http://arxiv.org/abs/2602.04184)|null|
 |**2026-01-29**|**Drive-JEPA: Video JEPA Meets Multimodal Trajectory Distillation for End-to-End Driving**|Linhan Wang et.al.|[2601.22032](http://arxiv.org/abs/2601.22032)|null|
 |**2026-02-03**|**Driving on Registers**|Ellington Kirby et.al.|[2601.05083](http://arxiv.org/abs/2601.05083)|null|
 |**2026-01-06**|**FROST-Drive: Scalable and Efficient End-to-End Driving with a Frozen Vision Encoder**|Zeyu Dong et.al.|[2601.03460](http://arxiv.org/abs/2601.03460)|null|
