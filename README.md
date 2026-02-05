@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**Dynamic Constraint Tightening for Nonlinear MPC for Autonomous Racing via Contraction Analysis**|Joscha F. Bongard et.al.|[2602.04744](http://arxiv.org/abs/2602.04744)|null|
 |**2026-02-04**|**SPOT-Occ: Sparse Prototype-guided Transformer for Camera-based 3D Occupancy Prediction**|Suzeyu Chen et.al.|[2602.04240](http://arxiv.org/abs/2602.04240)|null|
 |**2026-02-04**|**The Dynamics of Attention across Automated and Manual Driving Modes: A Driving Simulation Study**|Yuan Cai et.al.|[2602.04164](http://arxiv.org/abs/2602.04164)|null|
 |**2026-02-04**|**Scalable Explainability-as-a-Service (XaaS) for Edge AI Systems**|Samaresh Kumar Singh et.al.|[2602.04120](http://arxiv.org/abs/2602.04120)|null|
