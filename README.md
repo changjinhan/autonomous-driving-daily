@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**Curiosity is Knowledge: Self-Consistent Learning and No-Regret Optimization with Active Inference**|Yingke Li et.al.|[2602.06029](http://arxiv.org/abs/2602.06029)|null|
 |**2026-02-05**|**UI-Mem: Self-Evolving Experience Memory for Online Reinforcement Learning in Mobile GUI Agents**|Han Xiao et.al.|[2602.05832](http://arxiv.org/abs/2602.05832)|null|
 |**2026-02-05**|**Advanced Quantum Communication and Quantum Networks -- From basic research to future applications**|Björn Kubala et.al.|[2602.05781](http://arxiv.org/abs/2602.05781)|null|
 |**2026-02-05**|**ROMAN: Reward-Orchestrated Multi-Head Attention Network for Autonomous Driving System Testing**|Jianlei Chi et.al.|[2602.05629](http://arxiv.org/abs/2602.05629)|null|
