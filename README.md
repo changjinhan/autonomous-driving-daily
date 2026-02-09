@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-06**|**TFusionOcc: Student's t-Distribution Based Object-Centric Multi-Sensor Fusion Framework for 3D Occupancy Prediction**|Zhenxing Ming et.al.|[2602.06400](http://arxiv.org/abs/2602.06400)|null|
+|**2026-02-06**|**A Unified Wake Topology Map for He II Counterflow Past a Cylinder**|Yingxuan Hu et.al.|[2602.06281](http://arxiv.org/abs/2602.06281)|null|
+|**2026-02-06**|**Rethinking External Communication of Autonomous Vehicles: Is the Field Converging, Diverging, or Stalling?**|Tram Thi Minh Tran et.al.|[2602.06278](http://arxiv.org/abs/2602.06278)|null|
+|**2026-02-05**|**On the radial velocity wave in the Galactic disk**|Chris Hamilton et.al.|[2602.06182](http://arxiv.org/abs/2602.06182)|null|
 |**2026-02-05**|**Curiosity is Knowledge: Self-Consistent Learning and No-Regret Optimization with Active Inference**|Yingke Li et.al.|[2602.06029](http://arxiv.org/abs/2602.06029)|null|
 |**2026-02-05**|**UI-Mem: Self-Evolving Experience Memory for Online Reinforcement Learning in Mobile GUI Agents**|Han Xiao et.al.|[2602.05832](http://arxiv.org/abs/2602.05832)|null|
 |**2026-02-05**|**Advanced Quantum Communication and Quantum Networks -- From basic research to future applications**|Björn Kubala et.al.|[2602.05781](http://arxiv.org/abs/2602.05781)|null|
