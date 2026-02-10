@@ -1,4 +1,4 @@
-## Updated on 2026.02.09
+## Updated on 2026.02.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-08**|**Sequential versus Manifold Bayesian Optimization under Realistic Experimental Time Constraints**|Boris Slautin et.al.|[2602.07753](http://arxiv.org/abs/2602.07753)|null|
+|**2026-02-08**|**Geo-Code: A Code Framework for Reverse Code Generation from Geometric Images Based on Two-Stage Multi-Agent Evolution**|Zhenyu Wu et.al.|[2602.07749](http://arxiv.org/abs/2602.07749)|null|
+|**2026-02-07**|**Vision and language: Novel Representations and Artificial intelligence for Driving Scene Safety Assessment and Autonomous Vehicle Planning**|Ross Greer et.al.|[2602.07680](http://arxiv.org/abs/2602.07680)|null|
+|**2026-02-07**|**Scaffolded Vulnerability: Chatbot-Mediated Reciprocal Self-Disclosure and Need-Supportive Interaction in Couples**|Zhuoqun Jiang et.al.|[2602.07508](http://arxiv.org/abs/2602.07508)|null|
+|**2026-02-07**|**Navigating Algorithmic Opacity: Folk Theories and User Agency in Semi-Autonomous Vehicles**|Yehuda Perry et.al.|[2602.07312](http://arxiv.org/abs/2602.07312)|null|
+|**2026-02-06**|**Beyond Crash: Hijacking Your Autonomous Vehicle for Fun and Profit**|Qi Sun et.al.|[2602.07249](http://arxiv.org/abs/2602.07249)|null|
+|**2026-02-06**|**Performance Evaluation of V2X Communication Using Large-Scale Traffic Data**|John Pravin Arockiasamy et.al.|[2602.07244](http://arxiv.org/abs/2602.07244)|null|
 |**2026-02-06**|**TFusionOcc: Student's t-Distribution Based Object-Centric Multi-Sensor Fusion Framework for 3D Occupancy Prediction**|Zhenxing Ming et.al.|[2602.06400](http://arxiv.org/abs/2602.06400)|null|
 |**2026-02-06**|**A Unified Wake Topology Map for He II Counterflow Past a Cylinder**|Yingxuan Hu et.al.|[2602.06281](http://arxiv.org/abs/2602.06281)|null|
 |**2026-02-06**|**Rethinking External Communication of Autonomous Vehicles: Is the Field Converging, Diverging, or Stalling?**|Tram Thi Minh Tran et.al.|[2602.06278](http://arxiv.org/abs/2602.06278)|null|
@@ -117,7 +124,7 @@
 |**2026-01-14**|**LCF3D: A Robust and Real-Time Late-Cascade Fusion Framework for 3D Object Detection in Autonomous Driving**|Carlo Sgaravatti et.al.|[2601.09812](http://arxiv.org/abs/2601.09812)|null|
 |**2026-01-14**|**ReflexDiffusion: Reflection-Enhanced Trajectory Planning for High-lateral-acceleration Scenarios in Autonomous Driving**|Xuemei Yao et.al.|[2601.09377](http://arxiv.org/abs/2601.09377)|null|
 
-<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260210>back to top</a>)</p>
 
 ## Intelligent Vehicles
 
@@ -142,12 +149,13 @@
 |**2025-12-15**|**The Optimal Control Algorithm of Connected and Automated Vehicles at Roundabouts with Communication Delay**|Chen Huang et.al.|[2512.13056](http://arxiv.org/abs/2512.13056)|null|
 |**2025-12-12**|**Shared Situational Awareness Using Hybrid Zonotopes with Confidence Metric**|Vandana Narri et.al.|[2512.11493](http://arxiv.org/abs/2512.11493)|null|
 
-<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260210>back to top</a>)</p>
 
 ## Motion Planning for Vehicles
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-06**|**Beyond Crash: Hijacking Your Autonomous Vehicle for Fun and Profit**|Qi Sun et.al.|[2602.07249](http://arxiv.org/abs/2602.07249)|null|
 |**2026-02-04**|**AppleVLM: End-to-end Autonomous Driving with Advanced Perception and Planning-Enhanced Vision-Language Models**|Yuxuan Han et.al.|[2602.04256](http://arxiv.org/abs/2602.04256)|null|
 |**2026-02-04**|**Natural Language Instructions for Scene-Responsive Human-in-the-Loop Motion Planning in Autonomous Driving using Vision-Language-Action Models**|Angel Martinez-Sanchez et.al.|[2602.04184](http://arxiv.org/abs/2602.04184)|null|
 |**2026-01-29**|**Drive-JEPA: Video JEPA Meets Multimodal Trajectory Distillation for End-to-End Driving**|Linhan Wang et.al.|[2601.22032](http://arxiv.org/abs/2601.22032)|null|
@@ -162,7 +170,7 @@
 |**2025-12-01**|**RoaD: Rollouts as Demonstrations for Closed-Loop Supervised Fine-Tuning of Autonomous Driving Policies**|Guillermo Garcia-Cobo et.al.|[2512.01993](http://arxiv.org/abs/2512.01993)|null|
 |**2025-11-27**|**MTR-VP: Towards End-to-End Trajectory Planning through Context-Driven Image Encoding and Multiple Trajectory Prediction**|Maitrayee Keskar et.al.|[2511.22181](http://arxiv.org/abs/2511.22181)|null|
 
-<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260210>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

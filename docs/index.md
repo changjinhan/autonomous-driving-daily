@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.02.09
+## Updated on 2026.02.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Autonomous Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-08**|**Sequential versus Manifold Bayesian Optimization under Realistic Experimental Time Constraints**|Boris Slautin et.al.|[2602.07753](http://arxiv.org/abs/2602.07753)|null|
+|**2026-02-08**|**Geo-Code: A Code Framework for Reverse Code Generation from Geometric Images Based on Two-Stage Multi-Agent Evolution**|Zhenyu Wu et.al.|[2602.07749](http://arxiv.org/abs/2602.07749)|null|
+|**2026-02-07**|**Vision and language: Novel Representations and Artificial intelligence for Driving Scene Safety Assessment and Autonomous Vehicle Planning**|Ross Greer et.al.|[2602.07680](http://arxiv.org/abs/2602.07680)|null|
+|**2026-02-07**|**Scaffolded Vulnerability: Chatbot-Mediated Reciprocal Self-Disclosure and Need-Supportive Interaction in Couples**|Zhuoqun Jiang et.al.|[2602.07508](http://arxiv.org/abs/2602.07508)|null|
+|**2026-02-07**|**Navigating Algorithmic Opacity: Folk Theories and User Agency in Semi-Autonomous Vehicles**|Yehuda Perry et.al.|[2602.07312](http://arxiv.org/abs/2602.07312)|null|
+|**2026-02-06**|**Beyond Crash: Hijacking Your Autonomous Vehicle for Fun and Profit**|Qi Sun et.al.|[2602.07249](http://arxiv.org/abs/2602.07249)|null|
+|**2026-02-06**|**Performance Evaluation of V2X Communication Using Large-Scale Traffic Data**|John Pravin Arockiasamy et.al.|[2602.07244](http://arxiv.org/abs/2602.07244)|null|
 |**2026-02-06**|**TFusionOcc: Student's t-Distribution Based Object-Centric Multi-Sensor Fusion Framework for 3D Occupancy Prediction**|Zhenxing Ming et.al.|[2602.06400](http://arxiv.org/abs/2602.06400)|null|
 |**2026-02-06**|**A Unified Wake Topology Map for He II Counterflow Past a Cylinder**|Yingxuan Hu et.al.|[2602.06281](http://arxiv.org/abs/2602.06281)|null|
 |**2026-02-06**|**Rethinking External Communication of Autonomous Vehicles: Is the Field Converging, Diverging, or Stalling?**|Tram Thi Minh Tran et.al.|[2602.06278](http://arxiv.org/abs/2602.06278)|null|
@@ -139,6 +146,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**Beyond Crash: Hijacking Your Autonomous Vehicle for Fun and Profit**|Qi Sun et.al.|[2602.07249](http://arxiv.org/abs/2602.07249)|null|
 |**2026-02-04**|**AppleVLM: End-to-end Autonomous Driving with Advanced Perception and Planning-Enhanced Vision-Language Models**|Yuxuan Han et.al.|[2602.04256](http://arxiv.org/abs/2602.04256)|null|
 |**2026-02-04**|**Natural Language Instructions for Scene-Responsive Human-in-the-Loop Motion Planning in Autonomous Driving using Vision-Language-Action Models**|Angel Martinez-Sanchez et.al.|[2602.04184](http://arxiv.org/abs/2602.04184)|null|
 |**2026-01-29**|**Drive-JEPA: Video JEPA Meets Multimodal Trajectory Distillation for End-to-End Driving**|Linhan Wang et.al.|[2601.22032](http://arxiv.org/abs/2601.22032)|null|
