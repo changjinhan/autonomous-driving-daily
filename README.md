@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-09**|**karl. -- A Research Vehicle for Automated and Connected Driving**|Jean-Pierre Busch et.al.|[2602.08842](http://arxiv.org/abs/2602.08842)|null|
+|**2026-02-09**|**Multi-Staged Framework for Safety Analysis of Offloaded Services in Distributed Intelligent Transportation Systems**|Robin Dehler et.al.|[2602.08821](http://arxiv.org/abs/2602.08821)|null|
+|**2026-02-09**|**Verifying DNN-based Semantic Communication Against Generative Adversarial Noise**|Thanh Le et.al.|[2602.08801](http://arxiv.org/abs/2602.08801)|null|
+|**2026-02-09**|**GaussianCaR: Gaussian Splatting for Efficient Camera-Radar Fusion**|Santiago Montiel-Marín et.al.|[2602.08784](http://arxiv.org/abs/2602.08784)|null|
+|**2026-02-09**|**Emergence of Superintelligence from Collective Near-Critical Dynamics in Reentrant Neural Fields**|Byung Gyu Chae et.al.|[2602.08483](http://arxiv.org/abs/2602.08483)|null|
+|**2026-02-09**|**Gesture Matters: Pedestrian Gesture Recognition for AVs Through Skeleton Pose Evaluation**|Alif Rizqullah Mahdi et.al.|[2602.08479](http://arxiv.org/abs/2602.08479)|null|
+|**2026-02-09**|**Shear-Induced Collective Shape Oscillations in Dense Soft Suspensions**|Ioannis Hadjifrangiskou et.al.|[2602.08445](http://arxiv.org/abs/2602.08445)|null|
+|**2026-02-09**|**Post-Collision Trajectory Restoration for a Single-track Ackermann Vehicle using Heuristic Steering and Tractive Force Functions**|Samsaptak Ghosh et.al.|[2602.08444](http://arxiv.org/abs/2602.08444)|null|
+|**2026-02-09**|**Benchmarking Autonomous Vehicles: A Driver Foundation Model Framework**|Yuxin Zhang et.al.|[2602.08298](http://arxiv.org/abs/2602.08298)|null|
+|**2026-02-09**|**Self-Supervised Bootstrapping of Action-Predictive Embodied Reasoning**|Milan Ganai et.al.|[2602.08167](http://arxiv.org/abs/2602.08167)|null|
 |**2026-02-08**|**Sequential versus Manifold Bayesian Optimization under Realistic Experimental Time Constraints**|Boris Slautin et.al.|[2602.07753](http://arxiv.org/abs/2602.07753)|null|
 |**2026-02-08**|**Geo-Code: A Code Framework for Reverse Code Generation from Geometric Images Based on Two-Stage Multi-Agent Evolution**|Zhenyu Wu et.al.|[2602.07749](http://arxiv.org/abs/2602.07749)|null|
 |**2026-02-07**|**Vision and language: Novel Representations and Artificial intelligence for Driving Scene Safety Assessment and Autonomous Vehicle Planning**|Ross Greer et.al.|[2602.07680](http://arxiv.org/abs/2602.07680)|null|
