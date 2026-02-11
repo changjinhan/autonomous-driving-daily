@@ -2,14 +2,22 @@
 layout: default
 ---
 
-## Updated on 2026.02.10
+## Updated on 2026.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Autonomous Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-09**|**karl. -- A Research Vehicle for Automated and Connected Driving**|Jean-Pierre Busch et.al.|[2602.08842](http://arxiv.org/abs/2602.08842)|null|
+|**2026-02-10**|**Robust Vision Systems for Connected and Autonomous Vehicles: Security Challenges and Attack Vectors**|Sandeep Gupta et.al.|[2602.09740](http://arxiv.org/abs/2602.09740)|null|
+|**2026-02-10**|**Toroidal Confinement and Beyond: Vorticity-Defined Morphologies of Dipolar $^{164}$ Dy Quantum Droplets**|S. Sanjay et.al.|[2602.09683](http://arxiv.org/abs/2602.09683)|null|
+|**2026-02-10**|**Bayesian network approach to building an affective module for a driver behavioural model**|Dorota Młynarczyk et.al.|[2602.09632](http://arxiv.org/abs/2602.09632)|null|
+|**2026-02-10**|**Dynamic Bidirectional Coupling of Membrane Morphology and Rod Organization in Flexible Vesicles**|Stijn van der Ham et.al.|[2602.09612](http://arxiv.org/abs/2602.09612)|null|
+|**2026-02-10**|**Finite-time Stable Pose Estimation on TSE(3) using Point Cloud and Velocity Sensors**|Nazanin S. Hashkavaei et.al.|[2602.09414](http://arxiv.org/abs/2602.09414)|null|
+|**2026-02-10**|**Dieu khien he da tac tu**|Minh Hoang Trinh et.al.|[2602.09412](http://arxiv.org/abs/2602.09412)|null|
+|**2026-02-09**|**Development of a Reduced Multi-Fluid Equilibrium Model and Its Application to Proton-Boron Spherical Tokamaks**|Huasheng Xie et.al.|[2602.09205](http://arxiv.org/abs/2602.09205)|null|
+|**2026-02-09**|**Risk-Aware Obstacle Avoidance Algorithm for Real-Time Applications**|Ozan Kaya et.al.|[2602.09204](http://arxiv.org/abs/2602.09204)|null|
+|**2026-02-10**|**karl. -- A Research Vehicle for Automated and Connected Driving**|Jean-Pierre Busch et.al.|[2602.08842](http://arxiv.org/abs/2602.08842)|null|
 |**2026-02-09**|**Multi-Staged Framework for Safety Analysis of Offloaded Services in Distributed Intelligent Transportation Systems**|Robin Dehler et.al.|[2602.08821](http://arxiv.org/abs/2602.08821)|null|
 |**2026-02-09**|**Verifying DNN-based Semantic Communication Against Generative Adversarial Noise**|Thanh Le et.al.|[2602.08801](http://arxiv.org/abs/2602.08801)|null|
 |**2026-02-09**|**GaussianCaR: Gaussian Splatting for Efficient Camera-Radar Fusion**|Santiago Montiel-Marín et.al.|[2602.08784](http://arxiv.org/abs/2602.08784)|null|
