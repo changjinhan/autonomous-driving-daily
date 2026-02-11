@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**Spatio-Temporal Attention for Consistent Video Semantic Segmentation in Automated Driving**|Serin Varghese et.al.|[2602.10052](http://arxiv.org/abs/2602.10052)|null|
+|**2026-02-10**|**A Collaborative Safety Shield for Safe and Efficient CAV Lane Changes in Congested On-Ramp Merging**|Bharathkumar Hegde et.al.|[2602.10007](http://arxiv.org/abs/2602.10007)|null|
+|**2026-02-10**|**Online Monitoring Framework for Automotive Time Series Data using JEPA Embeddings**|Alexander Fertig et.al.|[2602.09985](http://arxiv.org/abs/2602.09985)|null|
 |**2026-02-10**|**Robust Vision Systems for Connected and Autonomous Vehicles: Security Challenges and Attack Vectors**|Sandeep Gupta et.al.|[2602.09740](http://arxiv.org/abs/2602.09740)|null|
 |**2026-02-10**|**Toroidal Confinement and Beyond: Vorticity-Defined Morphologies of Dipolar $^{164}$ Dy Quantum Droplets**|S. Sanjay et.al.|[2602.09683](http://arxiv.org/abs/2602.09683)|null|
 |**2026-02-10**|**Bayesian network approach to building an affective module for a driver behavioural model**|Dorota Młynarczyk et.al.|[2602.09632](http://arxiv.org/abs/2602.09632)|null|
