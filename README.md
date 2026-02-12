@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**Reentrance in a Hamiltonian flocking model**|Letian Chen et.al.|[2602.11104](http://arxiv.org/abs/2602.11104)|null|
+|**2026-02-11**|**Normalized Surveillance in the Datafied Car: How Autonomous Vehicle Users Rationalize Privacy Trade-offs**|Yehuda Perry et.al.|[2602.11026](http://arxiv.org/abs/2602.11026)|null|
 |**2026-02-11**|**Interpretable Vision Transformers in Monocular Depth Estimation via SVDA**|Vasileios Arampatzakis et.al.|[2602.11005](http://arxiv.org/abs/2602.11005)|null|
 |**2026-02-11**|**Enhancing Predictability of Multi-Tenant DNN Inference for Autonomous Vehicles' Perception**|Liangkai Liu et.al.|[2602.11004](http://arxiv.org/abs/2602.11004)|null|
 |**2026-02-11**|**Sample Efficient Generative Molecular Optimization with Joint Self-Improvement**|Serra Korkmaz et.al.|[2602.10984](http://arxiv.org/abs/2602.10984)|null|
