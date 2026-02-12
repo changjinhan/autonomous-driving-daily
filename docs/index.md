@@ -2,13 +2,22 @@
 layout: default
 ---
 
-## Updated on 2026.02.11
+## Updated on 2026.02.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Autonomous Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Interpretable Vision Transformers in Monocular Depth Estimation via SVDA**|Vasileios Arampatzakis et.al.|[2602.11005](http://arxiv.org/abs/2602.11005)|null|
+|**2026-02-11**|**Enhancing Predictability of Multi-Tenant DNN Inference for Autonomous Vehicles' Perception**|Liangkai Liu et.al.|[2602.11004](http://arxiv.org/abs/2602.11004)|null|
+|**2026-02-11**|**Sample Efficient Generative Molecular Optimization with Joint Self-Improvement**|Serra Korkmaz et.al.|[2602.10984](http://arxiv.org/abs/2602.10984)|null|
+|**2026-02-11**|**The Effect of Design Thinking on Creative & Innovation Processes: An Empirical Study Across Different Design Experience Levels**|Yuxin Zhang et.al.|[2602.10827](http://arxiv.org/abs/2602.10827)|null|
+|**2026-02-11**|**A Unified Experimental Architecture for Informative Path Planning: from Simulation to Deployment with GuadalPlanner**|Alejandro Mendoza Barrionuevo et.al.|[2602.10702](http://arxiv.org/abs/2602.10702)|null|
+|**2026-02-11**|**Beyond Task Performance: A Metric-Based Analysis of Sequential Cooperation in Heterogeneous Multi-Agent Destructive Foraging**|Alejandro Mendoza Barrionuevo et.al.|[2602.10685](http://arxiv.org/abs/2602.10685)|null|
+|**2026-02-11**|**AurigaNet: A Real-Time Multi-Task Network for Enhanced Urban Driving Perception**|Kiarash Ghasemzadeh et.al.|[2602.10660](http://arxiv.org/abs/2602.10660)|null|
+|**2026-02-10**|**Hardware Co-Design Scaling Laws via Roofline Modelling for On-Device LLMs**|Luoyang Sun et.al.|[2602.10377](http://arxiv.org/abs/2602.10377)|null|
+|**2026-02-10**|**Adaptive Time Step Flow Matching for Autonomous Driving Motion Planning**|Ananya Trivedi et.al.|[2602.10285](http://arxiv.org/abs/2602.10285)|null|
 |**2026-02-10**|**Spatio-Temporal Attention for Consistent Video Semantic Segmentation in Automated Driving**|Serin Varghese et.al.|[2602.10052](http://arxiv.org/abs/2602.10052)|null|
 |**2026-02-10**|**A Collaborative Safety Shield for Safe and Efficient CAV Lane Changes in Congested On-Ramp Merging**|Bharathkumar Hegde et.al.|[2602.10007](http://arxiv.org/abs/2602.10007)|null|
 |**2026-02-10**|**Online Monitoring Framework for Automotive Time Series Data using JEPA Embeddings**|Alexander Fertig et.al.|[2602.09985](http://arxiv.org/abs/2602.09985)|null|
@@ -167,6 +176,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**From Representational Complementarity to Dual Systems: Synergizing VLM and Vision-Only Backbones for End-to-End Driving**|Sining Ang et.al.|[2602.10719](http://arxiv.org/abs/2602.10719)|null|
 |**2026-02-06**|**Beyond Crash: Hijacking Your Autonomous Vehicle for Fun and Profit**|Qi Sun et.al.|[2602.07249](http://arxiv.org/abs/2602.07249)|null|
 |**2026-02-04**|**AppleVLM: End-to-end Autonomous Driving with Advanced Perception and Planning-Enhanced Vision-Language Models**|Yuxuan Han et.al.|[2602.04256](http://arxiv.org/abs/2602.04256)|null|
 |**2026-02-04**|**Natural Language Instructions for Scene-Responsive Human-in-the-Loop Motion Planning in Autonomous Driving using Vision-Language-Action Models**|Angel Martinez-Sanchez et.al.|[2602.04184](http://arxiv.org/abs/2602.04184)|null|
