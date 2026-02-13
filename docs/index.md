@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.02.12
+## Updated on 2026.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Autonomous Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Emergent spin-resolved electronic charge density waves and pseudogap phenomena from strong $d$ -wave altermagnetism**|Fei Yang et.al.|[2602.11694](http://arxiv.org/abs/2602.11694)|null|
+|**2026-02-12**|**SToRM: Supervised Token Reduction for Multi-modal LLMs toward efficient end-to-end autonomous driving**|Seo Hyun Kim et.al.|[2602.11656](http://arxiv.org/abs/2602.11656)|null|
+|**2026-02-12**|**The Five Ws of Multi-Agent Communication: Who Talks to Whom, When, What, and Why -- A Survey from MARL to Emergent Language and LLMs**|Jingdi Chen et.al.|[2602.11583](http://arxiv.org/abs/2602.11583)|null|
+|**2026-02-12**|**Calibration and Evaluation of Car-Following Models for Autonomous Shuttles Using a Novel Multi-Criteria Framework**|Renan Favero et.al.|[2602.11517](http://arxiv.org/abs/2602.11517)|null|
+|**2026-02-12**|**An Educational Human Machine Interface Providing Request-to-Intervene Trigger and Reason Explanation for Enhancing the Driver's Comprehension of ADS's System Limitations**|Ryuji Matsuo et.al.|[2602.11507](http://arxiv.org/abs/2602.11507)|null|
+|**2026-02-12**|**Understanding Persuasive Interactions between Generative Social Agents and Humans: The Knowledge-based Persuasion Model (KPM)**|Stephan Vonschallen et.al.|[2602.11483](http://arxiv.org/abs/2602.11483)|null|
+|**2026-02-12**|**Future Mining: Learning for Safety and Security**|Md Sazedur Rahman et.al.|[2602.11472](http://arxiv.org/abs/2602.11472)|null|
+|**2026-02-11**|**Chemo Hydrodynamic Transceivers for the Internet of Bio-Nano Things, Modeling the Joint Propulsion Transmission trade-off**|Shaojie Zhang et.al.|[2602.11380](http://arxiv.org/abs/2602.11380)|null|
 |**2026-02-11**|**Reentrance in a Hamiltonian flocking model**|Letian Chen et.al.|[2602.11104](http://arxiv.org/abs/2602.11104)|null|
 |**2026-02-11**|**Normalized Surveillance in the Datafied Car: How Autonomous Vehicle Users Rationalize Privacy Trade-offs**|Yehuda Perry et.al.|[2602.11026](http://arxiv.org/abs/2602.11026)|null|
 |**2026-02-11**|**Interpretable Vision Transformers in Monocular Depth Estimation via SVDA**|Vasileios Arampatzakis et.al.|[2602.11005](http://arxiv.org/abs/2602.11005)|null|
